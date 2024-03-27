@@ -2,4 +2,32 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: coral;
+}
+
+h1{
+    color: cornflowerblue;
+    padding: 15px;
+}
+h3{
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+a{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+}
+
+.redes{
+    color: #ff0;
+}
+p{
+    padding: 30px;
 }
